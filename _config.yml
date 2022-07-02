@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jody Zhu"
+  name             : "Qihan 'Jody' Zhu"
   avatar           : "profile.png"
-  bio              : "Software development engineer at Amazon | Cornell '22 ORIE & CS"
+  bio              : "Software development engineer at Amazon | \n Cornell '22 ORIE & CS"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
