@@ -22,7 +22,7 @@ Willem and I were invited to give a guest lecture to the introductory ORIE class
 We also did a TEDx-styled presentation and poster session on our little "press tour".
 
 ## Support ORIE Undergrad Research
-Read what students had to say about it [here](https://www.orie.cornell.edu/news/undergraduate-research-initiative-opens-doors).
+Read what students had to say [here](https://www.orie.cornell.edu/news/undergraduate-research-initiative-opens-doors).
 
 ## Seat Packing for the Win
 Thank you Cornell ORIE for sharing this [article](https://www.orie.cornell.edu/news/orie-team-led-jody-zhu-takes-first-place-iise-undergraduate-research-competition). Seat packing stemmed from the course scheduling team needing to know new room capacities under social distancing. Read more about ORIE's role in Cornell's fall 2020 reopening [here](https://news.cornell.edu/stories/2021/01/model-makers-how-engineers-saved-fall-spring-semesters).
