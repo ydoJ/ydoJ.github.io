@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Operations Research and Engineering (Honors Program), Cornell University 2022
+(Abridged version to preserve some mysteriousness in the digital age.)
+
+## Education
+* B.S. in Operations Research and Engineering with honors, Cornell University 2022
 * B.S. in Computer Science, Cornell University 2022
 * Dyson Business Minor for Engineers
 * Applied Economics Minor
 
 
-Work Experience
-======
+## Work Experience
 * June 2022 - present: Software Development Engineer
   * Amazon Alexa AI
 * Summer 2021: Operations Summer Analyst
@@ -30,22 +30,12 @@ Work Experience
   * Duties included: Building a quality control notification tool for the pipeline
   * Supervisor: Dr. Jonathan Keats
 
-Research Experience
-======
-* 2021-2022: Exam Scheduling
-* 2021-2022: Simulation Optimization
-* 2020-2021: Socially Distanced Seating
-
+## [Research Experience](https://ydoj.github.io/research/)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## [Teaching](https://ydoj.github.io/teaching/)
   
-Service and Leadership
-======
+## Service and Leadership
 * Co-president of ORIE Undergrad Society 2021-2022
 * Member of Omega Rho International Honor Society for Operations Research and Management Science 2021-2022
+* Co-president of Engineering Ambassadors 2019-2022
 * President of Engineers for a Sustainable World Cornell Chapter 2021, member 2018-2022
-* Vice President of Engineering Ambassadors 2019-2021
