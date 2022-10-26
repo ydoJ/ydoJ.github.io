@@ -18,7 +18,7 @@ redirect_from:
 * Applied Economics Minor
 
 
-## Work Experience
+## Industry Experience
 * June 2022 - present: Software Development Engineer
   * Amazon Alexa AI
 * Summer 2021: Operations Summer Analyst
@@ -32,7 +32,7 @@ redirect_from:
 
 ## [Research Experience](https://ydoj.github.io/research/)
   
-## [Teaching](https://ydoj.github.io/teaching/)
+## [Teaching Experience](https://ydoj.github.io/teaching/)
   
 ## Service and Leadership
 * Co-president of ORIE Undergrad Society 2021-2022
