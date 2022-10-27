@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Cornell’s Final Exam Schedule"
 collection: publications
-permalink: /research/exam-scheduling
+permalink: /publications/exam-scheduling
 excerpt: 'In this project, a team of undergraduates optimized Cornell's final exam schedule in a three-step fashion using integer programming and heuristics. I explored a TSP approach to reduce conflicts by assigning class to block and block to time together. Furthermore, I analyzed various metrics, especially in the discussion of deviating from a fixed timetable.'
 subtitle: 'Advised by Professor David Shmoys'
 location: 'Cornell University'
