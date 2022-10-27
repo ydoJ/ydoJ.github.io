@@ -10,4 +10,4 @@ year: '2021-2022'
 ### Overview
 Stochastic simulation is a technique in the field of operations research that has been widely applied in many industries. Simulation optimization arises when optimizing some functions that can only be evaluated through a stochastic simulation. A large number of simulation optimization solvers exist, but little effort has been made to compare them. We have expanded upon a [repository](https://github.com/simopt-admin/simopt) of simulation optimization problems that model real-world scenarios. These problems allow comparisons among solvers, which aim to find optimal solutions more efficiently.
 
-:page_with_curl: [Poster](http://academicpages.github.io/files/simopt-poster.pdf)
+📃[Poster](http://academicpages.github.io/files/simopt-poster.pdf)
