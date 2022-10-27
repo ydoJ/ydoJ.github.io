@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-TODO
+Hi. My name is Jody. Welcome to my website!
+
+While I mull over writing an ingenious introduction, check out the other pages by clicking the navigation bar at the top.
