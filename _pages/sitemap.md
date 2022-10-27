@@ -7,7 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+[About Me](https://ydoj.github.io/)
+
+[Research](https://ydoj.github.io/research/)
+* [Exam Scheduling](https://ydoj.github.io/research/exam-scheduling)
+* [Simulation Optimization](https://ydoj.github.io/research/simulation-optimization)
+* [Socially Distanced Seating](https://ydoj.github.io/research/socially-distanced-seating)
+
+[Teaching](https://ydoj.github.io/teaching/)
+
+[CV](https://ydoj.github.io/cv/)
+
+[More](https://ydoj.github.io/more/)
+
+<!-- A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 <h2>Pages</h2>
 {% for post in site.pages %}
@@ -34,4 +47,4 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
