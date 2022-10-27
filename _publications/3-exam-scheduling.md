@@ -7,6 +7,7 @@ subtitle: 'Advised by Professor David Shmoys'
 location: 'Cornell University'
 year: '2021-2022'
 ---
+### Overview
 While finals are needed to test students’ mastery of course contents, they are a large contributor to stress and mental health issues among the student population. A better final exam schedule can effectively lower students’ burdens and grant them more time flexibility. To optimize the final exam schedule for Cornell students, we adopted methods and strategies from combinatorial optimization, which examines problems with a discrete set of feasible solutions. Our work was reflected for the first time in the Spring 2022 final exam schedule. 
 
-[Poster](http://academicpages.github.io/files/scheduling-poster.pdf)
+📃 [Poster](http://academicpages.github.io/files/scheduling-poster.pdf)

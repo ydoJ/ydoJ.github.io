@@ -1,5 +1,5 @@
 ---
-title: "An Automated Tool for Optimal Classroom Seating Assignment with Social Distancing Constraints"
+title: "🥇 An Automated Tool for Optimal Classroom Seating Assignment with Social Distancing Constraints"
 collection: publications
 permalink: /research/socially-distanced-seating
 excerpt: "To depart from time-consuming guesswork, I designed the original tool for automatically selecting the optimal seating arrangement given social distancing guidelines that employed computer vision and integer programming. Working closely with a team of undergraduates, we improved and implemented the system for the university's use in reopening. This project was submitted to the 2021 IISE Annual Conference where it received first place for the OR Division Undergraduate Student Research Award."
