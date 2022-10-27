@@ -27,7 +27,7 @@ redirect_from:
   * Supervisor: April Mao, Christian Molina
 * Summer 2019: Helios Scholar Bioinformatics Intern
   * Translational Genomics Research Institute
-  * Duties included: Building a quality control notification tool for the pipeline
+  * Duties included: Building a quality control notification tool for the pipeline [[abstract]](https://www.tgen.org/education/alumni/2019/qihan-zhu/)
   * Supervisor: Dr. Jonathan Keats
 
 ## [Research Experience](https://ydoj.github.io/research/)
