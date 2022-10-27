@@ -14,6 +14,6 @@ Our core model considers the case of a classroom with fixed seats. This problem 
  
 Our tool helped automate the classroom planning process at a major university where its ease of use allowed it to be run on hundreds of classrooms. Compared to initial reduced-capacity classroom estimates determined by the Office of the University Architect, it helped identify over 400 additional seats that could be used by the university.
 
-K. K. Greenberg, T. Hensel, Q. Zhu, S. Aarts, D. B. Shmoys, and S. C. Gutekunst. [“An Automated Tool for Optimal Classroom Seating Assignment with Social Distancing Constraints.”](http://academicpages.github.io/files/socially-distanced-seating.pdf) Proceedings of the IISE Annual Conference, 2021.
+K. K. Greenberg, T. Hensel, Q. Zhu, S. Aarts, D. B. Shmoys, and S. C. Gutekunst. [“An Automated Tool for Optimal Classroom Seating Assignment with Social Distancing Constraints.”](https://ydoj.github.io/files/socially-distanced-seating.pdf) Proceedings of the IISE Annual Conference, 2021.
 
 Watch my oral presentation [here](https://drive.google.com/file/d/1Tp5pRFD6_uClzTgvqYZlorcRtC_NAnPt/view?usp=sharing).
