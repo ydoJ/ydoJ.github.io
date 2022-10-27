@@ -5,7 +5,7 @@ permalink: /research/socially-distanced-seating
 excerpt: 'To depart from time-consuming guesswork, I designed the original tool for automatically selecting the optimal seating arrangement given social distancing guidelines that employed computer vision and integer programming. Working closely with a team of undergraduates, we improved and implemented the system for the university's use in reopening. This project was submitted to the 2021 IISE Annual Conference where it received first place for the OR Division Undergraduate Student Research Award.'
 subtitle: 'Advised by Professor David Shmoys and Professor Samuel Gutekunst'
 location: 'Cornell University'
-date: '2020-2021'
+year: '2020-2021'
 ---
 ### Abstract
 Social distancing has become a necessity due to COVID-19, requiring schools to reduce classroom capacities to host in-person students. In doing so, schools seek to maximize the number of seats that can be used within a classroom, while ensuring that no pair of usable seats violates social distancing guidelines. We model this problem as a graph-theoretic maximum independent set problem and develop a user-friendly tool that solves real instances of the problem. We then use that tool to create optimal classroom seating plans for a major university.
