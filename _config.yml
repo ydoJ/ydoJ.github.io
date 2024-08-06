@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jody Zhu"
 title_separator          : "-"
 name                     : &name "Jody Zhu"
-description              : &description "Software development engineer at Amazon"
+description              : &description "Ph.D. student"
 url                      : https://ydoJ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ydoJ.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qihan 'Jody' Zhu"
   avatar           : "profile.jpeg"
-  bio              : "Software development engineer at Amazon | Cornell '22 ORIE & CS"
+  bio              : "Operations Research Ph.D. student at CMU"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "qz245@cornell.edu"
+  email            : "qihanz@andrew.cmu.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
